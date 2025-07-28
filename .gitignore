@@ -1,0 +1,3 @@
+# Ignore log and output files
+invalid_data_log.txt
+all_haarvi_serum.csv
